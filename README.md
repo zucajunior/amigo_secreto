@@ -1,7 +1,7 @@
 
 # 🎉 **Amigo Secreto**
 
-![Imagem de Capa](figura1.png)  
+![Imagem de Capa](assets/figura1.png)  
 *Imagem representativa do jogo de Amigo Secreto.*
 
 ## Badges
