@@ -57,13 +57,13 @@ Veja abaixo como a aplicação funciona:
 
 Na tela inicial, você pode digitar os nomes dos amigos que irão participar do sorteio. Após digitar o nome, basta clicar no botão **Adicionar** para incluí-lo na lista.
 
-![Adicionando Amigos](figura1.png)
+![Adicionando Amigos](assets/figura1.png)
 
 ### Realizando o Sorteio
 
 Depois de adicionar pelo menos dois amigos, você pode clicar no botão **Sortear amigo** para gerar os pares de amigos secretos. O sorteio é feito de forma aleatória e ninguém pode tirar a si mesmo.
 
-![Resultado do Sorteio](figura2.png)
+![Resultado do Sorteio](assets/figura2.png)
 
 ---
 
