@@ -33,9 +33,9 @@ Este é um jogo simples de **Amigo Secreto**, onde você pode adicionar os nomes
 
 ## Status do Projeto
 
-- [x] Em andamento
+- [ ] Em andamento
 - [ ] Concluído
-- [ ] Em fase de testes
+- [x] Em fase de testes
 
 ---
 
@@ -83,7 +83,7 @@ Depois de adicionar pelo menos dois amigos, você pode clicar no botão **Sortea
 1. Navegador moderno (Chrome, Firefox, Edge, etc.)
 2. Clone o repositório:
    ```bash
-   git clone https://link-do-repositorio.git
+   git clone https://github.com/zucajunior/amigo_secreto
    ```
 
 ### Executando o Projeto
@@ -102,18 +102,14 @@ A aplicação será carregada diretamente no navegador, e você poderá começar
 
 Agradecemos às seguintes pessoas que ajudaram neste projeto:
 
-- **Nome da Pessoa 1**: Descrição da contribuição.
-- **Nome da Pessoa 2**: Descrição da contribuição.
+- **Emilio Junior**: Descrição da contribuição.
+- **Curso Alura**: Descrição da contribuição.
 
 ---
 
 ## Pessoas Desenvolvedoras do Projeto
 
-- **Seu Nome**: Desenvolvedor Principal
-- **Outro Desenvolvedor**: Descrição das responsabilidades.
+- **Zuca**: Desenvolvedor Principal
 
 ---
 
-## Licença
-
-Este projeto está licenciado sob a licença [MIT License](link-da-licenca).
