@@ -33,9 +33,9 @@ Este é um jogo simples de **Amigo Secreto**, onde você pode adicionar os nomes
 
 ## Status do Projeto
 
-- [ ] Em andamento
+- [x] Em andamento
 - [ ] Concluído
-- [x] Em fase de testes
+- [ ] Em fase de testes
 
 ---
 
